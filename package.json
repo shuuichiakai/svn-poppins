@@ -1,0 +1,22 @@
+{
+  "name": "svn-poppins",
+  "version": "1.0.0",
+  "description": "Font Poppin Viet Hoa",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuuichiakai/svn-poppins.git"
+  },
+  "keywords": [
+    "poppin"
+  ],
+  "author": "Shuuiluna <shuuichiakai@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shuuichiakai/svn-poppins/issues"
+  },
+  "homepage": "https://github.com/shuuichiakai/svn-poppins#readme"
+}
